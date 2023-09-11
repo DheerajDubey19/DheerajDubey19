@@ -1,4 +1,4 @@
-<img align="center" src="https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?w=2000" length="400px" width="3000px" >
+<img align="center" src="https://as1.ftcdn.net/v2/jpg/03/04/68/52/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg" length="400px" width="3000px" >
 
 <h1 align="center">Hi 👋, I'm Dheeraj Dubey</h1>
 <h3 align="center">A passionate Data Scientist currently in 7th sem.</h3>
