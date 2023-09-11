@@ -1,11 +1,9 @@
-<img align="center" src="https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?w=2000"  >
+<img align="center" src="https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?w=2000" length="400px" width="3000px" >
 
 <h1 align="center">Hi 👋, I'm Dheeraj Dubey</h1>
 <h3 align="center">A passionate Data Scientist currently in 7th sem.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajdubey19&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajdubey19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheerajdubey19" alt="dheerajdubey19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dheerajdubey_19" target="blank"><img src="https://img.shields.io/twitter/follow/dheerajdubey_19?logo=twitter&style=for-the-badge" alt="dheerajdubey_19" /></a> </p>
 
