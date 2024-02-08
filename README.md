@@ -1,15 +1,16 @@
 <img align="center" src="https://as1.ftcdn.net/v2/jpg/03/04/68/52/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg" length="400px" width="3000px" >
 
 <h1 align="center">Hi 👋, I'm Dheeraj Dubey</h1>
-<h3 align="center">A passionate Data Scientist currently in 7th sem.</h3>
+<h3 align="center">A passionate Data Scientist currently in 8th sem.</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/dheerajdubey_19" target="blank"><img src="https://img.shields.io/twitter/follow/dheerajdubey_19?logo=twitter&style=for-the-badge" alt="dheerajdubey_19" /></a> </p>
 
-- 🔭 I’m currently working on **Facial emotion recognition**
+- 🔭 I’m currently working on **"PoseOptiFit: An Advanced Platform for RealTime Exercise Monitoring, Pose Estimation,
+and Correction**
 
-- 🌱 I’m currently learning **DSA and App Development**
+- 🌱 I’m currently learning **DSA and Django**
 
 - 📫 How to reach me **dheerajdubey600@gmail.com**
 
