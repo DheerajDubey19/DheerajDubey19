@@ -1,4 +1,4 @@
-<img align="center" src="https://as1.ftcdn.net/v2/jpg/03/04/68/52/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg" length="400px" width="3000px" >
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fsoftware-development&psig=AOvVaw1nbqDkcmLeNmy_yLtZffAh&ust=1720167935205000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiCrpP7jIcDFQAAAAAdAAAAABAE" length="400px" width="3000px" >
 
 <h1 align="center">Hi 👋, I'm Dheeraj Dubey</h1>
 <h3 align="center">A recent Computer Science graduate with a strong foundation in Python programming</h3>
